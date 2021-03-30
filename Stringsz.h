@@ -4,8 +4,8 @@
 //
 /////////////////////////////////////////////////////////////////////////////
 
-#if !defined(AFX_STRINGSZ_H__CBE9C951_3280_443F_90EC_43510E6ED80E__INCLUDED_)
-#define AFX_STRINGSZ_H__CBE9C951_3280_443F_90EC_43510E6ED80E__INCLUDED_
+#if !defined(__STRINGSZ_INCLUDED__)
+#define __STRINGSZ_INCLUDED__
 
 #if _MSC_VER > 1000
 #pragma once
@@ -77,6 +77,4 @@ private:
     char* _buffer;
 };
 
-#endif // !defined(AFX_STRINGSZ_H__CBE9C951_3280_443F_90EC_43510E6ED80E__INCLUDED_)
-
-// End
+#endif
